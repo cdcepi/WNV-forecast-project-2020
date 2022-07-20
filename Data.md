@@ -29,7 +29,6 @@ Data consist of total annual neuroinvasive disease counts for counties in the 48
 	+  **fips:** 46102/46113
 	+  **county:** Oglala Lakota/Shannon
 	+  **location:** South Dakota-Oglala Lakota/Shannon
-	+  
 
 #### Data Dictionary
 
