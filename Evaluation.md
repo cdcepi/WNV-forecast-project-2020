@@ -10,7 +10,7 @@ To be eligible, teams must:
 
 2.	Submit forecasts electronically prior to the deadline (April 30, 2020).
 
-3.	Submit a model description (see [Participation](Participation.md).
+3.	Submit a model description (see [Participation](Participation.md)).
 
 **Results**
 
