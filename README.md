@@ -11,6 +11,6 @@ This is an _**open**_ forecasting challenge to predict the total number of neuro
 
 **Timeline**
 
-+ Project announcement and historical data release: Winter 2020
++ Project announcement and historical data release: March 2020
 + Initial forecast due: April 30, 2020
 + Additional forecasts due (optional): May 31, June 30, and July 31, 2020
