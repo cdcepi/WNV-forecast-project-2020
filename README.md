@@ -7,7 +7,7 @@ The first cases of WNV disease in the United States were identified in New York 
 
 **Challenge**
 
-This is an _**open**_ forecasting challenge to predict the total number of neuroinvasive WNV disease cases for each county in the contiguous United States that will be reported to ArboNET during the 2020 calendar year. The forecasting target is described on the [Target](Target.md) page. The counties and information about historical data for the counties are available on the [Data](Data.md) page. Participation guidelines are described on the [Participation](Participation.md) page and evaluation criteria are described on the [Evaluation](Evaluation.md) page.
+This is an _**open**_ forecasting challenge to predict the total number of neuroinvasive WNV disease cases for each county in the contiguous United States that will be reported to ArboNET during the 2020 calendar year. The forecasting target is described on the [Target](Target.md) page. Participation guidelines are described on the [Participation](Participation.md) page and evaluation criteria are described on the [Evaluation](Evaluation.md) page. Information about historical data for the counties is available on the [Data](Data.md) page.
 
 **Timeline**
 
