@@ -3,4 +3,4 @@ Teams were encouraged to submit updated model descriptions when submitting updat
 
 Forecast dates: April 30, May 31, June 30, July 31, 2020
 
-Team names: ARS, LANL, MHC, MSSM, NCSU, NYSW, NYSW-CVD, Rutgers, Stanford, UA, UCD, UI, UI-NCSA, UNL, WDH. Note: Team UA2 submitted a model descrption in April, but did not submit any forecasts.
+Team names: ARS, LANL, MHC, MSSM, NCSU, NYSW, NYSW-CVD, Rutgers, Stanford, UA, UCD, UI, UI-NCSA, UNL, WDH.
